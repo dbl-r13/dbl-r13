@@ -1,4 +1,4 @@
-```json:
+```yaml
 apiVersion: v34
 kind: Human
 metadata:
