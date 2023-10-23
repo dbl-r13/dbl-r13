@@ -14,6 +14,5 @@ favorites:
   - animal: 🐶🐱🦉🐘
   - emojis: 🤓🤯🥴
   - food: 🥩🍤🍗🌮🍔
-  - quote:
-    > "If you're lonely when you're alone, you're in bad company." - Jean-Paul Sarte
+  - quote: "If you're lonely when you're alone, you're in bad company." - Jean-Paul Sarte
 ```
